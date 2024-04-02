@@ -18,9 +18,9 @@ layout: base
 
 
   {%- if posts.size > 0 -%}
+<br><br><br>
 
-  
-      <h2 class="post-list-heading">Open positions</h2>
+      <h2 class="post-list-heading">Our open positions</h2>
  
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -31,6 +31,8 @@ layout: base
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
+          {{ post.kind | escape }}
+          {{ post.location | escape }}
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}

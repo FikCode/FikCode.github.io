@@ -3,6 +3,8 @@ layout: post
 title:  "Shopify Success Manager"
 date:   2024-04-02 16:39:33 +0200
 categories: customer success shopify
+kind: Mixed / Remote
+location: Madrid, Spain
 ---
 
 ## Job description

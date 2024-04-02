@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Driven and curious minds welcome
 ---
-
 
 
 > We are a team of technology specialists. 
