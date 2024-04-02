@@ -5,4 +5,11 @@
 layout: home
 ---
 
-Hello!
+
+
+> We are a team of technology specialists. 
+> 
+> Our culture evolves and grows as we go.
+> 
+> We cooperate, building things together guided by a common mission, getting our clients the best possible experience. 
+
